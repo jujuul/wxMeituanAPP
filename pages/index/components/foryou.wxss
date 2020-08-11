@@ -1,0 +1,55 @@
+
+.scroll-view_H.data-v-ea79472e {
+	/* 文本不会换行，文本会在在同一行上继续，直到遇到 <br> 标签为止。 */
+	white-space: nowrap;
+	width: 96%;
+	overflow: hidden;
+	margin-left: 2%;
+}
+.scroll-view-item_H.data-v-ea79472e {
+	display: inline-block;
+	overflow: hidden;
+}
+.scroll-view-item_H image.data-v-ea79472e {
+	box-sizing: border-box;
+	width: 200rpx;
+	height: 130rpx;
+	margin: 10rpx 14rpx 0 14rpx;
+	border-radius: 8rpx;
+}
+.item-title.data-v-ea79472e {
+	font-size: 26rpx;
+	margin: 0 14rpx;
+	font-weight: 500;
+}
+.item-lable.data-v-ea79472e {
+	font-size: 22rpx;
+	margin: 0 14rpx;
+	color: #7B6648;
+}
+.prefer-content.data-v-ea79472e {
+	margin: 0 15rpx;
+	padding-top: 24rpx;
+}
+.swiper.data-v-ea79472e {
+	height: 280rpx;
+	border-radius: 30rpx;
+	background-color: #FFFFFF;
+}
+.text.data-v-ea79472e {
+	height: 56rpx;
+	line-height: 56rpx;
+	padding-top: 6rpx;
+}
+.text .foryou.data-v-ea79472e {
+	color: #7B6648;
+	font-weight: 550;
+	margin-left: 20rpx;
+}
+.text .more.data-v-ea79472e {
+	float: right;
+	font-size: 22rpx;
+	margin-right: 30rpx;
+	color: #888888;
+}
+

@@ -1,0 +1,11 @@
+{
+  "navigationBarBackgroundColor": "#f1b94c",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "search": "/pages/index/components/search",
+    "foryou": "/pages/index/components/foryou",
+    "nearby": "/pages/index/components/nearby",
+    "choose": "/pages/index/components/choose",
+    "content": "/pages/index/components/content"
+  }
+}

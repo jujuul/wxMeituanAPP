@@ -1,0 +1,128 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 首页列表页 */
+.wrap.data-v-c5681054 {
+	margin: 30rpx 15rpx 0 15rpx;
+}
+.contentView.data-v-c5681054 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	height: 180rpx !important;
+	overflow: hidden;
+	margin-top: 10rpx;
+	color: #898989;
+	border-radius: 20rpx;
+	background-color:#FFFFFF;
+}
+.contentImg.data-v-c5681054 {
+	width: 220rpx !important;
+	height: 110rpx !important;
+}
+.contentImg image.data-v-c5681054 {
+	margin-top: 30rpx;
+	margin-left: 24rpx;
+	width: 100%;
+	height: 100%;
+	border-radius: 10rpx;
+}
+.contentTitle.data-v-c5681054 {
+	width: 100%;
+	padding-top: 18rpx;
+	padding-left: 40rpx;
+}
+.contentTitle .decTxt.data-v-c5681054 {
+	font-size: 18rpx;
+	margin-top: 7rpx;
+}
+.contentTitle text.data-v-c5681054 {
+	font-size: 28rpx;
+	height: 42rpx;
+}
+.contentTitle .contentMonthly image.data-v-c5681054 {
+	margin-top: 4rpx;
+	width: 26rpx;
+	height: 26rpx;
+}
+.contentTake.data-v-c5681054 {
+	color: #333333;
+	height: 50rpx;
+	font-weight: bold;
+	line-height: 50rpx;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 1;
+	overflow: hidden;
+}
+.contentMonthly.data-v-c5681054 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.contentMonthly text.data-v-c5681054 {
+	margin-top: 4rpx;
+	font-size: 21rpx;
+}
+.contentStarting.data-v-c5681054 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.contentStarting text.data-v-c5681054 {
+	font-size: 21rpx;
+}
+.contentStarting image.data-v-c5681054 {
+	width: 24rpx;
+	height: 24rpx;
+	padding-right: 10rpx;
+}
+.minute.data-v-c5681054 {
+	position: absolute;
+	right: 40rpx;
+}
+
